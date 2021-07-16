@@ -1,0 +1,165 @@
+.snoopy_gif{
+	width: 120px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.text_af_gif{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 25px;
+	color: rgb(47,85,151);
+}
+
+.typography{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+
+.head_text{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.heading { font-size: 1.2em; }
+
+.h_type{
+	font-family: Garamond;
+}
+
+.header{color: v;}
+
+.principal_body{
+	margin: 0px 230px 0px 230px;
+}
+
+.colorful_text{
+	background-color: rgb(245, 245, 245);
+}
+
+.blue_text{
+	font-family: sans-serif;
+	color: rgb(67, 117, 215);
+	margin-left: 30px;
+}
+
+.red_text{
+	font-family: sans-serif;
+	color: rgb(177, 14, 29);
+}
+
+.orange_text{
+	font-family: sans-serif;
+	color: rgb(187, 98, 9);
+}
+
+.black_text{
+	font-family: sans-serif;
+	color: rgb(86, 86, 86);
+}
+
+.paragraph{
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+.bold_text{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+
+}
+
+.quote{
+	border: solid;
+	width: 600px;
+	border-color: rgb(192, 192, 192);
+}
+
+.quote_text{
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: 20px;
+}
+
+.author{font-family: sans-serif;
+	font-size: 10px;}
+
+.dot{
+	width: 180px;
+	height: 30px;
+	float: left;
+}
+
+.dot_new_line{
+	width: 180px;
+	height: 30px;
+	clear: both;
+	float: left;
+	display: block;
+	position: relative;
+} 
+
+
+.blue_dot {
+  height: 25px;
+  width: 25px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+  border="1px";
+  float: left;
+}
+
+.green_dot {
+  height: 25px;
+  width: 25px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+  border="1px";
+  float: left;
+}
+
+.yellow_dot {
+  height: 25px;
+  width: 25px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+  border="1px";
+  float: left;
+}
+
+.red_dot {
+  height: 25px;
+  width: 25px;
+  background-color: darkred;
+  border-radius: 50%;
+  display: inline-block;
+  border="1px";
+  float: left;
+}
+
+.gray_dot {
+  height: 25px;
+  width: 25px;
+  background-color: gray;
+  border-radius: 50%;
+  display: inline-block;
+  border="1px";
+  float: left;
+}
+
+.text_circle{
+	margin-left: 10px;
+}
+
+
+.new_line{
+	clear: both;
+	display: block;
+}
