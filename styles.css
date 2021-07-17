@@ -183,3 +183,130 @@
 	float: left;
 	margin-left: 10px;
 }
+
+
+.primary{
+	height: 55px;
+	width: 120px;
+	float: left;
+	margin-left: 10px;
+	background-color: rgb(78, 138, 177);
+	border-radius: 10px;
+}
+
+.block_text{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+
+}
+
+.secundary{
+	height: 55px;
+	width: 130px;
+	float: left;
+	margin-left: 10px;
+	background-color: gray;
+	border-radius: 10px;
+}
+
+.success{
+	height: 55px;
+	width: 130px;
+	float: left;
+	margin-left: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+}
+
+.warning{
+	height: 55px;
+	width: 130px;
+	float: left;
+	margin-left: 10px;
+	background-color: rgb(243, 209, 109);
+	border-radius: 10px;
+}
+
+.danger{
+	height: 55px;
+	width: 130px;
+	float: left;
+	margin-left: 10px;
+	background-color: rgb(209, 71, 110);
+	border-radius: 10px;
+}
+
+
+.transparent{
+	height: 55px;
+	width: 130px;
+	float: left;
+	margin-left: 10px;
+}
+
+
+.block_text_transparent{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: black;
+
+}
+
+.containerdivNewLine {
+		clear: both;
+		 display: block;
+		 position: relative;
+} 
+
+.with_icon{
+	height: 55px;
+	width: 150px;
+	float: left;
+	margin-left: 10px;
+	background-color: rgb(78, 138, 177);
+	border-radius: 10px;
+}
+
+.play_img_icon{
+	height: 20px;
+	width: 30px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 21px;
+}
+
+.block_text_icon{
+	margin-left: 13px;
+	float: left;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+
+.only_icon{
+	height: 55px;
+	width: 55px;
+	float: left;
+	margin-left: 10px;
+	background-color: rgb(78, 138, 177);
+	border-radius: 10px;
+}
+
+.play_img_ony_icon{
+	height: 30px;
+	width: 30px;
+	float: left;
+	margin-left: 13px;
+	margin-top: 13px;	
+}
+
+.blue_text_dot{
+	font-family: sans-serif;
+	color: rgb(67, 117, 215);
+	margin-left: 30px;
+	font-size: 25px;	
+}
