@@ -163,3 +163,23 @@
 	clear: both;
 	display: block;
 }
+
+
+.elements{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 24px;
+}
+
+.base_button{
+	width: 160px;
+	height: 25px;
+	background-color: rgb(245, 245, 245)
+}
+
+.play_img{
+	height: 20px;
+	width: 20px;
+	float: left;
+	margin-left: 10px;
+}
