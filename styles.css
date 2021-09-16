@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 * {
     margin: 0;
@@ -40,3 +41,47 @@ header {
 
 }
 
+=======
+
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+header {
+	border: solid;
+	border-color: gray;
+	text-align:center;
+}
+
+#header_img {
+  width: 120px;
+  height: 100px;
+}
+
+.colum {
+	height: 1000px;
+	box-sizing: border-box;
+}
+
+#left_colum {
+	width: 15%;
+	background-color: #FAFAFA;
+	float: left;
+}
+
+#middle_colum {
+	background-color: #FFFFFF;
+	width: 70%;
+	float: left;
+	padding: 2%;
+}
+
+#right_colum {
+	width: 15%;
+	background-color: #FAFAFA;
+	float: left;
+
+}
+
+>>>>>>> ebe221073aa460ff982fd68dbc2702b372689151
